@@ -1,0 +1,16 @@
+En el ejercicio de la sesión anterior, se crearon servlets para los siguientes casos de uso:
+ Inicio
+ Contacto
+ Crear Capacitación
+ Listar Capacitación
+ Login
+Como parte de este ejercicio se pide realizar lo siguiente:
+1. En caso de que algún servlet esté generando código HTML directamente, debe modificar
+este comportamiento utilizando un JSP adecuado al caso.
+2. Debe aplicar estilos CSS a cada sitio. Todos los archivos JSP deben compartir el mismo
+archivo de estilos.
+3. En caso de que aplique, implemente funciones Javascript, jQuery o librerías que contengan
+funcionalidades pertinentes a los casos de uso implementados.
+4. Todas las páginas deben compartir el mismo menú, a excepción del login.
+5. Finalmente, implemente un servlet que permita cerrar la sesión de usuario, y redireccionar
+al usuario al sitio de login.
